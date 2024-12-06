@@ -66,6 +66,10 @@ ${installation}
 
 ${usageInfo}
 
+##Video Demo
+
+[![Video Demo](assets/videodemo/${attachmentName})
+
 ## How to Contribute
 
 ${contributing}
