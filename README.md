@@ -1,4 +1,5 @@
-# Professional README Generator
+## Professional README Generator
+
 ![License](https://img.shields.io/badge/MIT%20License-purple)
 
 ## Description
@@ -17,8 +18,6 @@ A Node.js application using inquirer and FS modules to generate a README.md file
 ## Installation
 Clone the Git repo and rum npm I (install) to get dependencies before running.
 
-## Usage
-
 
 ### Usage Information
 In the terminal-in the command line run node.js and complete the prompts to have your README file
@@ -29,7 +28,7 @@ generated and ran.
 
 ## How to Contribute
 
-Contribute however you'd like! Create an issue and assign to yourself
+Contribute however you'd like! Any suggestions reach out thru my repo.
 
 ## Tests
 

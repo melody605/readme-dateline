@@ -1,9 +1,11 @@
-# undefined
+# Professional README generator 
+
+
 
 
 ## Description
 
-a node js app that uses fs modules to generate readme from command line
+a Node.js app usuing inquirer and FS moduiles to generate a README.mdbased onuser inputs/choices
 
 ## Table of Contents
 
@@ -22,21 +24,21 @@ npm i
 
 ## Usage Information
 
-undefined
+npm i in the command line then run node.js 
 
 ## How to Contribute
 
-undefined
+contribute however you'd like 
 
 ## Tests
 
-undefined
+npm i
 
 ## License
 This application is covered under MIT.
 
 
-## Questions
+## Contact
 
 Reach out to me with any additional questions or concerns!
-Message me on either GitHub at [undefined](https://github.com/undefined) or via email at melody@mail.com.
+Message me on either GitHub at [melody605](https://github.com/melody605) or via email at melody@gmal.com.
