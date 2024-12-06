@@ -44,20 +44,7 @@ const questions = [
         name: "email",
     },
 
-    {
-        type: "list",
-        name: "attachment",
-        message: "Do you have an attachment?",
-        choices: ['Yes', 'No']
-    },
-    
-    {
-        type: 'input',
-        name: 'attachmentName',
-        message: 'Please add file to videos directory and provide the name of the file.',
-        when: (answers) => answers.attachment === 'Yes' 
-    }
-    
+
 ];
 
 const generateReadme = function (answers) {
@@ -68,7 +55,7 @@ const generateReadme = function (answers) {
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
+function writeToFile(_fileName, _data) {
     fs.writefile("Generated -READ.md")
     err ? console.error(err) : console.log('Success!')
     ;
