@@ -19,7 +19,7 @@ const questions = [
         type: "input",
         name: "installation",
         message: "What commands should we run for dependencies?",
-        default: "npm i",
+        default: "git clone the repo and run npm install",
     },
     {
         type: "list",
@@ -35,12 +35,12 @@ const questions = [
     {
         type: "input",
         name: "test",
-        message: "What commands should be run to run tests?",
+        message: "NA",
     },
     {
         type: "input",
         name: "usageInfo",
-        message: "Provide instructions and examples for use:",
+        message: "How to use the application?",
     },
     {
         type: "input",
@@ -63,8 +63,8 @@ const questions = [
         name: 'attachmentName',
         message: 'Please add file to videos directory and provide the name of the file.',
         when: (answers) => answers.attachment === 'Yes' 
+    },
 ];
-
 // Function to generate the README content
 const generateReadme = function (answers) {
     return `${generateMarkdown(answers)}`;

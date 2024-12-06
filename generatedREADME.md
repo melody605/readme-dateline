@@ -1,11 +1,11 @@
-# Professional README generator 
+# Professional README Generator 
 
 
 
 
 ## Description
 
-a Node.js app usuing inquirer and FS moduiles to generate a README.mdbased onuser inputs/choices
+a Node.js app using a inquirer and FS modules to generate a README.md based on user inputs/choices
 
 ## Table of Contents
 
@@ -24,15 +24,19 @@ npm i
 
 ## Usage Information
 
-npm i in the command line then run node.js 
+type node.js in terminal and complete the prompts and have your README file generated
+
+##Video Demo
+
+[![Video Demo](assets/videodemo/)
 
 ## How to Contribute
 
-contribute however you'd like 
+contribute however you'd like! 
 
 ## Tests
 
-npm i
+node.js and compelete the prompts to have your README file generated
 
 ## License
 This application is covered under MIT.
@@ -41,4 +45,4 @@ This application is covered under MIT.
 ## Contact
 
 Reach out to me with any additional questions or concerns!
-Message me on either GitHub at [melody605](https://github.com/melody605) or via email at melody@gmal.com.
+Message me on either GitHub at [melody605](https://github.com/melody605) or via email at melody@gmail.com.

@@ -16,12 +16,12 @@ A Node.js application using inquirer and FS modules to generate a README.md file
 - [Questions](#questions)
 
 ## Installation
-Clone the Git repo and rum npm I (install) to get dependencies before running.
+Clone the repo and and run npm install
 
 
 ### Usage Information
 In the terminal-in the command line run node.js and complete the prompts to have your README file
-generated and ran.
+generated 
 
 ### Video Demo
 
