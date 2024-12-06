@@ -3,7 +3,7 @@
 
 ## Description
 
-running file from command line
+a node.js app that uses inquirer and fs modules to generate a README file 
 
 ## Table of Contents
 
