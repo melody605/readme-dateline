@@ -52,6 +52,17 @@ const questions = [
         name: "email",
         message: "What is your email address?",
     },
+    {
+        type: "list",
+        name: "attachment",
+        message: "Do you have an attachment?",
+        choices: ['Yes', 'No']
+    },
+    {
+        type: 'input',
+        name: 'attachmentName',
+        message: 'Please add file to videos directory and provide the name of the file.',
+        when: (answers) => answers.attachment === 'Yes' 
 ];
 
 // Function to generate the README content
