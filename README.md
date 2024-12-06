@@ -41,4 +41,4 @@ MIT License For additional information please visit the license file.
 
 ## Questions
 
-To reach me with additional questions please message me on either GitHub at jake-magri or via email jake.magri2@gmail.com.
+

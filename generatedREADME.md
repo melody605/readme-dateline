@@ -3,7 +3,7 @@
 
 ## Description
 
-a node.js app that uses inquirer and fs modules to generate a README file 
+a node js app that uses fs modules to generate readme from command line
 
 ## Table of Contents
 
@@ -39,4 +39,4 @@ This application is covered under MIT.
 ## Questions
 
 Reach out to me with any additional questions or concerns!
-Message me on either GitHub at [undefined](https://github.com/undefined) or via email at melody@gmail.com.
+Message me on either GitHub at [undefined](https://github.com/undefined) or via email at melody@mail.com.
