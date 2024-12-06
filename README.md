@@ -24,7 +24,7 @@ In the terminal-in the command line run node.js and complete the prompts to have
 generated 
 
 ### Video Demo
-
+![Video Demo](README%20final.mp4)
 
 ## How to Contribute
 
