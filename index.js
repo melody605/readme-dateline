@@ -35,7 +35,7 @@ const questions = [
     {
         type: "input",
         name: "test",
-        message: "NA",
+        message: "Is their a test included?",
     },
     {
         type: "input",

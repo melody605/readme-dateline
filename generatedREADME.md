@@ -5,7 +5,7 @@
 
 ## Description
 
-a Node.js app using a inquirer and FS modules to generate a README.md based on user inputs/choices
+A Node.js app using inquirer and FS modules to generate a README.md filebased on user inputs/choices
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ a Node.js app using a inquirer and FS modules to generate a README.md based on u
 
 ## Installation
 
-npm i
+git clone the repo and run npm install
 
 ## Usage Information
 
-type node.js in terminal and complete the prompts and have your README file generated
+In the terminal run node.js and complete the prompts to have your README generator 
 
 ##Video Demo
 
@@ -32,11 +32,11 @@ type node.js in terminal and complete the prompts and have your README file gene
 
 ## How to Contribute
 
-contribute however you'd like! 
+Contribute however you'd like!
 
 ## Tests
 
-node.js and compelete the prompts to have your README file generated
+
 
 ## License
 This application is covered under MIT.
